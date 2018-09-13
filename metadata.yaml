@@ -1,10 +1,13 @@
 _repo: The-Chasers_51508
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Harrington
     gutenberg_agent_id: '34381'
     url: http://www.gutenberg.org/2009/agents/34381
+covers:
+- cover_type: archival
+  image_path: 51508-h/images/cover.jpg
 creator:
   author:
     agent_name: Galouye, Daniel F.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35969
     wikipedia: http://en.wikipedia.org/wiki/Daniel_F._Galouye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51508#The-Chasers
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-20'
 gutenberg_type: Text
